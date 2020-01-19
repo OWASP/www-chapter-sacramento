@@ -10,7 +10,7 @@ tags: past-tag
 # Past Events
 
 ## November 2019
-![Kick off Meetup](/assets/images/kick-off-meetup.png)
+[![Kick off Meetup](/]assets/images/kick-off-meetup.png)
 Come join us for the inaugural event of the Sacramento OWASP Chapter. We have so
 much AppSec, NetSec, and InfoSec talent in the Sacramento area that it’s time we
 form a community for us to share our thoughts, experiences, and best practices.
