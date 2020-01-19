@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Sacramento
-tags: example-tag
+tags: appsec, sacramento, security
 level: 0
 
 region: United States
