@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Sacramento
-tags: past
+tags: past-tag
 level: 0
 
 region: United States
