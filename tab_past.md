@@ -1,5 +1,13 @@
-# Past Events
+---
+title:Past
+displayText: Past Events
+layout: null
+tab: true
+order: 1
+tags: events
+---
 
+# Past Events
 
 ## November 2019
 ![Kick off Meetup](/assets/images/kick-off-meetup.png)
