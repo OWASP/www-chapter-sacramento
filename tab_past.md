@@ -19,7 +19,7 @@ add Subresource Integrity (SRI) checking to your external resources. Ways you
 can enable Content Security Policies (CSP) and reporting on CSPs. What to expect
 from Expect Certificate Transparency (Expect-CT) and Certificate Authorization
 Authorities (CAAs). Then we wrapped it up with how to set up a `security.txt` on
-your site with the securitytxt [proposal][ietf]. There's also a generator found
+your site with the securitytxt [proposal][1]. There's also a generator found
 at https://securitytxt.org
 
 ## November 2019
@@ -36,4 +36,4 @@ or even contributing!
 
 Please RSVP by October 15th so we can accommodate seating, snacks, and drinks.
 
-[ietf]: https://tools.ietf.org/html/draft-foudil-securitytxt
+[1]: https://tools.ietf.org/html/draft-foudil-securitytxt
