@@ -12,7 +12,7 @@ tags: past-tag
 ## January 2020
 [Slide Deck](assets/slides/20200117-modern-web-security-patterns.pdf)
 
-BSides SF is fast appraoching! Who's going?
+BSides SF is fast approaching! Who's going?
 
 This month we talked about a number of modern web security patterns. Like how to
 add Subresource Integrity (SRI) checking to your external resources. Ways you
