@@ -10,7 +10,10 @@ auto-migrated: 1
 ---
 
 ## Welcome
-Include some information here about your chapter
+Welcome to the Sacramento OWASP. We are a group of Security, Networking, Technology, Computer, you name it advocates here to share, teach, and learn. 
+
+## Events:
+
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that

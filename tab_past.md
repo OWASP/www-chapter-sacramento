@@ -9,7 +9,9 @@ tags: past-tag
 
 # Past Events
 
-## January 2020
+### January 2020
+![Kick off Meetup](assets/images/jan-2020-meetup.png)
+
 [Slide Deck](assets/slides/20200117-modern-web-security-patterns.pdf)
 
 BSides SF is fast approaching! Who's going?
@@ -22,7 +24,7 @@ Authorities (CAAs). Then we wrapped it up with how to set up a `security.txt` on
 your site with the securitytxt [proposal][1]. There's also a generator found
 at https://securitytxt.org
 
-## November 2019
+### November 2019
 ![Kick off Meetup](assets/images/kick-off-meetup.png)
 
 Come join us for the inaugural event of the Sacramento OWASP Chapter. We have so
