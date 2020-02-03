@@ -12,7 +12,20 @@ auto-migrated: 1
 ## Welcome
 Welcome to the Sacramento OWASP. We are a group of Security, Networking, Technology, Computer, you name it advocates here to share, teach, and learn. 
 
-## Events:
+## Upcoming Event:
+[February Meetup](https://www.meetup.com/OWASP-Sacramento-Chapter/events/268411020/) @ The Sacramento Hacker Lab. 
+
+## Events
+The best way to find our events is to look on [Meetup.com](https://www.meetup.com/OWASP-Sacramento-Chapter/). Be sure to join so that you can be notified of new events. 
+
+## Contact
+The best way to get in touch is Slack. 
+
+1. [Go to this link](http://owaspslack.com)
+ (not a typo).
+2. Register with your e-mail address.
+3. When in the Slack, find our channel in the channel list, or simply type: `/join #chapter-sacramento`
+
 
 
 ## Participation
