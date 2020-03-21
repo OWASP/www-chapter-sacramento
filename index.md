@@ -10,16 +10,17 @@ auto-migrated: 1
 ---
 
 ## Welcome
-Welcome to the Sacramento OWASP. We are a group of Security, Networking, Technology, Computer, you name it advocates here to share, teach, and learn. 
+Welcome to the Sacramento OWASP. We are a group of Security, Networking, Technology, Computer, you name it advocates here to share, teach, and learn.
 
 ## Upcoming Event:
-[February Meetup](https://www.meetup.com/OWASP-Sacramento-Chapter/events/268411020/) @ The Sacramento Hacker Lab. 
+
+[March Meetup](https://www.meetup.com/OWASP-Sacramento-Chapter/events/269447049/) @ Google Hangouts.
 
 ## Events
-The best way to find our events is to look on [Meetup.com](https://www.meetup.com/OWASP-Sacramento-Chapter/). Be sure to join so that you can be notified of new events. 
+The best way to find our events is to look on [Meetup.com](https://www.meetup.com/OWASP-Sacramento-Chapter/). Be sure to join so that you can be notified of new events.
 
 ## Contact
-The best way to get in touch is Slack. 
+The best way to get in touch is Slack.
 
 1. [Go to this link](http://owaspslack.com)
  (not a typo).
@@ -32,7 +33,7 @@ The best way to get in touch is Slack.
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 works to improve the security of software. All of our projects, tools,
 documents, forums, and chapters are free and open to anyone interested in
-improving application security. 
+improving application security.
 
 Chapters are led by local leaders in accordance with the
 [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook).
