@@ -9,7 +9,7 @@ tags: past-tag
 
 # Past Events
 
-<<<<<<< HEAD
+
 ### March 2020
 ![March Meetup](assets/images/mar-2020-meetup.png)
 
