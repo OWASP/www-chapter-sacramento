@@ -9,6 +9,17 @@ tags: past-tag
 
 # Past Events
 
+### March 2020
+![Kick off Meetup](assets/images/mar-2020-meetup.png)
+
+[Slide Deck](assets/slides/2020-03-Sacramento-OWASP.pptx)
+
+This month we coved a simple into to Threat Modeling. We had to conduct this meeting remotly due to the COVID-19 situation. 
+
+### February 2020
+![Kick off Meetup](assets/images/feb-2020-meetup.png)
+
+
 ### January 2020
 ![Kick off Meetup](assets/images/jan-2020-meetup.png)
 
