@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Sacramento
-tags: Sacramento, Roseville, Davis, Auburn, Tahoe, Elk Grove, California, OWASP, Security
+tags: past-tag
 level: 0
 
 region: North America
