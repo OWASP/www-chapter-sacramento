@@ -15,12 +15,13 @@ tags: past-tag
 
 [Slide Deck](assets/slides/2020-03-Sacramento-OWASP.pptx)
 
-This month we coved a simple into to Threat Modeling. We had to conduct this meeting remotly due to the COVID-19 situation. 
+This month we covered a simple intro into Threat Modeling. And we conducted this
+meetup remotely due to the COVID-19 situation.
 
 ### February 2020
 ![February Meetup](assets/images/feb-2020-meetup.png)
 
-[Slide Deck](https://docs.google.com/presentation/d/1SB-6EhECfABgFx3KGoKrS5uKtFIWZxzrPA_iWya4Y3g/edit#slide=id.p1)
+[Slide Deck](assets/slides/20200221-intro-to-beef.pdf)
 
 This month we discussed how a tool like BeEF can reveal the true potential of
 what Cross Site Scripting (XSS) can lead to. BeEF can be used to leverage
