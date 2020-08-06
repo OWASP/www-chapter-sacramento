@@ -3,7 +3,7 @@ layout: col-sidebar
 title: OWASP Sacramento
 tags: past-tag
 level: 0
-region: North Americ
+region: North America
 meetup-group: OWASP-Sacramento-Chapter
 country: USA
 postal-code: 94203
