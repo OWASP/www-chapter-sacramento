@@ -13,10 +13,6 @@ postal-code: 94203
 ## Welcome
 Welcome to the Sacramento OWASP. We are a group of Security, Networking, Technology, Computer, you name it advocates here to share, teach, and learn.
 
-## Upcoming Event:
-
-[March Meetup](https://www.meetup.com/OWASP-Sacramento-Chapter/events/269447049/){:target="_blank"} @ Google Hangouts.
-
 ## Events
 The best way to find our events is to look on [Meetup.com](https://www.meetup.com/OWASP-Sacramento-Chapter/){:target="_blank"}. Be sure to join so that you can be notified of new events.
 
