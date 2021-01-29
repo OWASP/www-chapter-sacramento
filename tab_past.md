@@ -10,6 +10,12 @@ tags: past-tag
 # Past Events
 
 
+### January 2021
+![January Meetup](assets/images/2021-jan.png)
+
+[Slides Source](assets/slides/2021-jan.odp)
+[Slides PDF](assets/slides/2021-jan.pdf)
+
 ### March 2020
 ![March Meetup](assets/images/mar-2020-meetup.png)
 
