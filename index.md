@@ -19,7 +19,7 @@ The best way to find our events is to look on [Meetup.com](https://www.meetup.co
 ## Contact
 The best way to get in touch is Slack.
 
-1. Go to [this link](https://owasp.slack.com/app_redirect?channel=chapter-santa-barbara){:target="_blank"}.
+1. Go to [this link](https://owasp.slack.com/?redir=%2Fapp_redirect%3Fchannel%3Dchapter-sacramento){:target="_blank"}.
 2. Register with your e-mail address.
 3. When in the Slack, find our channel in the channel list, or simply type: `/join #chapter-sacramento`
 
