@@ -8,7 +8,14 @@ tags: past-tag
 ---
 
 # Past Events
+### July 2021
+![assets/images](assets/images/July-22-2021.png)
 
+[Slides Source](assets/slides/2021-July.pptx)
+[Demo Repo](https://github.com/joubin/iac-demo)
+
+### March 20201
+Presentation by 
 
 ### January 2021
 ![January Meetup](assets/images/2021-jan.png)
