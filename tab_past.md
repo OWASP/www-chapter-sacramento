@@ -11,7 +11,7 @@ tags: past-tag
 
 ### October 2021  
 ![octobermeetup](assets/images/October-28-2021.png)  
-The holidays are fast approaching. This month we're hosting a virtual happy hour to get together and hangout before we're all busy with family and frieds.
+The holidays are fast approaching. This month we're hosting a virtual happy hour to get together and hangout before we're all busy with family and frineds. Come chat with us about the chapter, security in general, and let's get to know one another a bit better.
 
 ### August 2021
 ![augustmeeptup](assets/images/August-26-2021.png)    
