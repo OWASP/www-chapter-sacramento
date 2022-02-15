@@ -1,5 +1,5 @@
 #! /bin/bash
-date="October 28 2021"
+date="February 24 2022"
 time="6-7PM"
 filename=$( echo $date | sed 's/ /-/g')
 filename="$filename.png"
