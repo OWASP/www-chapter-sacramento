@@ -9,6 +9,14 @@ tags: past-tag
 
 # Past Events
 
+### February 2022  
+![febmeetup](assets/images/February-24-2022.png)  
+Welcome to the first meetup of 2022!  
+This month's presentation is a mock Red Team engagement within an insecurely configure TeamCity continuous integration environment.  
+[Slides Source](assets/slides/2022-February.pptx)    
+[Slides PDF](assets/slides/2022-February.pdf)  
+
+
 ### October 2021  
 ![octobermeetup](assets/images/October-28-2021.png)  
 The holidays are fast approaching. This month we're hosting a virtual happy hour to get together and hangout before we're all busy with family and frineds. Come chat with us about the chapter, security in general, and let's get to know one another a bit better.
