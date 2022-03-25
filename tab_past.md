@@ -9,6 +9,10 @@ tags: past-tag
 
 # Past Events
 
+### March 2022  
+![marchmeeup](assets/images/March-24-2022.png)  
+No presentation/topic this month, it's just happy hour at Out of Bounds in Folsom!   
+
 ### February 2022  
 ![febmeetup](assets/images/February-24-2022.png)  
 Welcome to the first meetup of 2022!  
