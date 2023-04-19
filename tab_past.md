@@ -9,6 +9,13 @@ tags: past-tag
 
 # Past Events
 
+### April 2023
+![april23meetup](assets/images/April-19-2023.png)  
+In person meeting at Granite City Coworking in Folsom. This month's meeting was a community dicussion, and a teaser into next month's presentation "Modern Phishing with EvilGinx2".  
+[Slides Source](assets/images/2023-April.pptx)
+[Slides PDF](assets/slides/2023-April.pdf) 
+
+
 ### March 2022  
 ![marchmeeup](assets/images/March-24-2022.png)  
 No presentation/topic this month, it's just happy hour at Out of Bounds in Folsom!   
