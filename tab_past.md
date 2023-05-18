@@ -13,7 +13,7 @@ tags: past-tag
 
 ![may23meetup](assets/images/May-17-2023.png)
 In person meeting at Granite City Coworking in Folsom. This month's meeting was a community dicussion, and a continuations into this month's presentation "Modern Phishing with EvilGinx2 (and 3)".  
-[Slides Source](assets/slides/2023-May.pdf) 
+[Slides Source](assets/slides/2023-May.pptx) 
 
 ### April 2023
 ![april23meetup](assets/images/April-19-2023.png)  
