@@ -9,6 +9,10 @@ tags: past-tag
 
 # Past Events
 
+### June 2023
+![june23meetup](assets/images/June-21-2023.png)
+In person meeting at Grantie City Coworking in Folsom. This month's meeting was an interactive threat modeling session. 
+
 ### May 2023 
 
 ![may23meetup](assets/images/May-17-2023.png)
