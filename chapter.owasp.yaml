@@ -1,0 +1,29 @@
+community:
+  - name: chapter-sacramento
+    platform: slack
+    url: https://owasp.slack.com/archives/CN89K5H9D
+    description: Sacramento Chapter Slack Area
+leaders:
+  - name: Nielet Dmello
+    email: nielet.dmello@owasp.org
+  - name: Larkins Carvalho
+    email: larkins.carvalho@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: California
+  city: Sacramento
+  postal_code: '94203'
+  latitude: 38.5810606
+  longitude: -121.493895
+meetup_group: OWASP-Sacramento-Chapter
+name: OWASP Sacramento
+repositories:
+  - name: www-chapter-sacramento
+    url: https://github.com/OWASP/www-chapter-sacramento
+    description: OWASP Foundation Web Repository
+tags:
+  - past-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-sacramento
